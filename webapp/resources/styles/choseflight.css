@@ -1,0 +1,53 @@
+#fligh{
+    border-style: inset;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+    background: linear-gradient(#69a0ab,#6c252552);
+    color: black;
+}
+
+.returnfligh{
+    border-style: inset;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+    background: linear-gradient(#69a0ab,#6c252552);
+    color: black;
+    display: none;
+}
+
+
+
+#departnote{
+    text-align: center;
+    color: black;
+    margin: 10px 25%;
+    border-radius: 10px;
+    padding: 5px;
+    background: linear-gradient(#e6f2ff,#00467f);
+}
+
+#returnnote{
+    text-align: center;
+    color: black;
+    margin: 10px 25%;
+    border-radius: 10px;
+    padding: 5px;
+    background: linear-gradient(#e6f2ff,#00467f);
+}
+
+.chose_flight{
+    background-color: orangered;
+    border-radius: 5px;
+    padding: 5px 25px;
+}
+
+.form-container{
+    border-radius: 10px;
+    border-style: solid;
+    background: linear-gradient(#e6f2ff,#00467f);
+    padding: 10px;
+    margin: 10px;
+}
+

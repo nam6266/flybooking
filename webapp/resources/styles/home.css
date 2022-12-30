@@ -1,0 +1,35 @@
+#login {
+    background: linear-gradient(#e6f2ff,#00467f);
+    margin: 0 15px;
+    padding-bottom: 15px;
+}
+
+#booking {
+    margin: 0 15px;
+    padding: 0;
+}
+
+#loginOrBooking {
+    border-radius: 25px;
+    border-style: ridge;
+    margin: 15px 25%;
+}
+
+#loginOrBooking h2{
+    padding-top: 15px;
+}
+
+#banner{
+    background: linear-gradient(#094887,#000508);
+}
+
+#imgslide{
+    margin: 25px 25%;
+
+}
+
+.carousel-inner{
+    border-radius: 5px;
+}
+
+
